@@ -1,15 +1,16 @@
-# degrees-and-courses
-
 Here it's a list of all the degrees and courses I have acquired over the time, with the latest one at the top.
 
+# Degrees
+- System Engineering Degree - Universidad Abierta interamericana 12/2021
+- System Analyst Degree - Universidad Abierta Interamericana 12/2020
+
+# Courses
 - AWS Serverless APIs & Apps - A complete introduction - Udemy 03/2023
 - Ultimate Rust Crash Course - Udemy 11/2022
 - React Native - The Practical Guide [2022] - Udemy 06/2022
 - Ethereum and Solidity: The Complete Developer's Guide - Udemy 01/2022
-- System Engineering Degree - Universidad Abierta interamericana 12/2021
 - Go: The Complete Developer's Guide (Golang)  - Udemy 10/2021
 - Scala & Functional Programming for Beginners | Rock the JVM - Udemy 01/2021
-- System Analyst Degree - Universidad Abierta Interamericana 12/2020
 - NestJS Zero to Hero - Modern TypeScript Backend Development - Udemy 08/2020
 - The ultimate MySQL Bootcamp: Go from Sql Beginner to Expert - Udemy 08/2020
 - Full Stack - freeCodeCamp 06/2020
